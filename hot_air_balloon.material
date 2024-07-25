@@ -1,0 +1,17 @@
+material material
+{
+    technique
+    {
+        pass
+        {
+            lighting on
+
+            ambient 0 0 0 1
+            diffuse 0.8 0.01 0.01 1
+            roughness 0.5
+
+            cull_hardware none
+            cull_software none
+        }
+    }
+}
