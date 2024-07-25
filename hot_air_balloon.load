@@ -1,9 +1,20 @@
 Hot air balloon (work in progress)
 
+fileformatversion 3
+
+description
+The first ever hot air balloon for Rigs of Rods!
+Control with F1 and F2.
+end_description
+
+guid 36a2813c-e822-41d7-bc65-e203616128f7
+
+author vehicle 21373 Miner34
+
+fileinfo -1, 114, 1.0
 
 scripts
     hot_air_balloon.as
-
 
 minimass
     0.25
